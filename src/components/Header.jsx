@@ -5,7 +5,9 @@ const Header = () => {
   const { style, darkMode } = useContext(AppContext);
   return (
     <header>
-      <h3 className={darkMode ? style.headingDark : style.heading}>Todo App</h3>
+      <h3 className={darkMode ? style.headingDark : style.heading}>
+        Firebase Todo App
+      </h3>
       <hr className={darkMode ? style.hrDark : style.hr} />
     </header>
   );
