@@ -2,7 +2,6 @@
 
 A React Firebase Todo App built by Ifeanyi Omeata <br>
 
-Demo: https://firebase-todo-app-ifeanyi.vercel.app/ <br>
 Github: https://github.com/omeatai/Firebase-Todo-App <br>
 Watch on Youtube: https://youtu.be/yYDVXV6ah-Q <br>
 Website: https://ifeanyiomeata.com <br>
